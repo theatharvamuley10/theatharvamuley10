@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva</h1>
 <h3 align="center">A passionate solidity smart contract developer</h3>
 
-- 🔭 I’m currently working on [ERC4626-vault](https://github.com/theatharvamuley10/ERC4626-Vault)
+- 🔭 I’m currently working on [Sablier-Clone](https://github.com/theatharvamuley10/sablier-clone)
 
 - 🌱 I’m currently learning **Nextjs, Typescript, Solidity, Foundry, Tailwind.**
 
