@@ -1,7 +1,53 @@
-<h1>Hi, I'm Atharva 👋</h1>
+<p>Hi, I'm Atharva 👋</p>
 <p>A passionate Web3 developer with a focus on Decentralized Finance (DeFi).</p>
 
-<h3>Languages and Tools</h3>
+<hr>
+<p>🚀 Hackathon projects:</p>
+<p>
+</p>
+<p>Gasless Token Swapper: Improved user experience by making transactions feel seamless and gas-free.</p>
+<ul>
+    <li>
+      <strong><a href="https://github.com/theatharvamuley10/Gasless-Swapper">Code on GitHub</a></strong> | <strong><a href="https://your-demo-link.com">Live Demo</a></strong>
+    </li>
+</ul>
+<hr>
+<p>🔧 DeFi Projects:</p>
+<p>Here are a few projects I've built that I'm proud of.</p>
+<ol>
+  <li>
+    <strong><a href="https://github.com/your-username/BetsAndStreaks">[BetsAndStreaks]</a></strong> - A brief, one-sentence description of what this project does and the problem it solves.
+  </li>
+  <li>
+    <strong><a href="https://github.com/your-username/ERC4626-Vault">[ERC4626 Vault]</a></strong> - A brief, one-sentence description of what this project does and the problem it solves.
+  </li>
+  <li>
+    <strong><a href="https://github.com/your-username/nft-marketplace">[NFT-Marketplace]</a></strong> - A brief, one-sentence description of what this project does and the problem it solves.
+  </li>
+</ol>
+<hr>
+<p>🔬 Protocol Re-implementations:</p>
+<p>To better understand the core mechanics of DeFi, I enjoy re-implementing famous protocols from scratch.</p>
+<ul>
+  <li>
+    <strong><a href="https://github.com/your-username/uniswap-reimplementation">Uniswap V2</a></strong> - A re-implementation focusing on the core logic of constant product automated market makers (AMMs).
+  </li>
+  <li>
+    <strong><a href="https://github.com/your-username/balancer-reimplementation">Balancer</a></strong> - An exploration of weighted pools and multi-token asset management.
+  </li>
+  <li>
+    <strong><a href="https://github.com/your-username/sablier-reimplementation">Sablier</a></strong> - A deep dive into token streaming protocols and time-based financial logic.
+  </li>
+</ul>
+<hr>
+<p>✍️ My Technical Writing:</p>
+<p>I also enjoy sharing my knowledge by writing deeply technical articles.</p>
+<ul>
+  <li><a href="https://your-blog-link.com/article-1"><strong>[Title of Your Blog Post 1]</strong></a></li>
+  <li><a href="https://your-blog-link.com/article-2"><strong>[Title of Your Blog Post 2]</strong></a></li>
+</ul>
+<hr>
+<p>Languages and Tools:</p>
 <p>
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Solidity-E6E6E6?style=for-the-badge&logo=solidity&logoColor=black" alt="Solidity"/>
@@ -22,53 +68,9 @@
     <img src="https://img.shields.io/badge/Foundry-2B2B2B?style=for-the-badge&logo=foundry&logoColor=white" alt="Foundry"/>
   </a>
 </p>
+<hr>
 
-<h3>🚀 Hackathons</h3>
-<p>
-  My most recent submission was for the Etherlink Hackathon, where I built a <strong>Gasless Token Swapper</strong>. The goal was to improve user experience by making transactions feel seamless and gas-free.
-</p>
-<ul>
-  <li>
-    <strong><a href="https://github.com/theatharvamuley10/Gasless-Swapper">Code on GitHub</a></strong> | <strong><a href="https://your-demo-link.com">Live Demo</a></strong>
-  </li>
-</ul>
-
-<h3>🔧 DeFi Projects</h3>
-<p>Here are a few projects I've built that I'm proud of.</p>
-<ol>
-  <li>
-    <strong><a href="https://github.com/your-username/BetsAndStreaks">[BetsAndStreaks]</a></strong> - A brief, one-sentence description of what this project does and the problem it solves.
-  </li>
-  <li>
-    <strong><a href="https://github.com/your-username/ERC4626-Vault">[ERC4626 Vault]</a></strong> - A brief, one-sentence description of what this project does and the problem it solves.
-  </li>
-  <li>
-    <strong><a href="https://github.com/your-username/nft-marketplace">[NFT-Marketplace]</a></strong> - A brief, one-sentence description of what this project does and the problem it solves.
-  </li>
-</ol>
-
-<h3>🔬 Protocol Re-implementations</h3>
-<p>To better understand the core mechanics of DeFi, I enjoy re-implementing famous protocols from scratch.</p>
-<ul>
-  <li>
-    <strong><a href="https://github.com/your-username/uniswap-reimplementation">Uniswap V2</a></strong> - A re-implementation focusing on the core logic of constant product automated market makers (AMMs).
-  </li>
-  <li>
-    <strong><a href="https://github.com/your-username/balancer-reimplementation">Balancer</a></strong> - An exploration of weighted pools and multi-token asset management.
-  </li>
-  <li>
-    <strong><a href="https://github.com/your-username/sablier-reimplementation">Sablier</a></strong> - A deep dive into token streaming protocols and time-based financial logic.
-  </li>
-</ul>
-
-<h3>✍️ My Technical Writing</h3>
-<p>I also enjoy sharing my knowledge by writing deeply technical articles.</p>
-<ul>
-  <li><a href="https://your-blog-link.com/article-1"><strong>[Title of Your Blog Post 1]</strong></a></li>
-  <li><a href="https://your-blog-link.com/article-2"><strong>[Title of Your Blog Post 2]</strong></a></li>
-</ul>
-
-<h3>📫 Connect With Me</h3>
+<p>📫 Connect With Me:</p>
 <blockquote>
   <p><strong>Status:</strong> Actively seeking new opportunities (Full-time / Internship) in the DeFi space.</p>
 </blockquote>
