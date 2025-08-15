@@ -16,13 +16,13 @@
 <p>Here are a few projects I've built that I'm proud of.</p>
 <ol>
   <li>
-    <strong><a href="https://github.com/your-username/BetsAndStreaks">[BetsAndStreaks]</a></strong> - A brief, one-sentence description of what this project does and the problem it solves.
+    <strong><a href="https://github.com/theatharvamuley10/BetsAndStreaks">[BetsAndStreaks]</a></strong> - A brief, one-sentence description of what this project does and the problem it solves.
   </li>
   <li>
-    <strong><a href="https://github.com/your-username/ERC4626-Vault">[ERC4626 Vault]</a></strong> - A brief, one-sentence description of what this project does and the problem it solves.
+    <strong><a href="https://github.com/theatharvamuley10/ERC4626-Vault">[ERC4626 Vault]</a></strong> - A brief, one-sentence description of what this project does and the problem it solves.
   </li>
   <li>
-    <strong><a href="https://github.com/your-username/nft-marketplace">[NFT-Marketplace]</a></strong> - A brief, one-sentence description of what this project does and the problem it solves.
+    <strong><a href="https://github.com/theatharvamuley10/nft-marketplace">[NFT-Marketplace]</a></strong> - A brief, one-sentence description of what this project does and the problem it solves.
   </li>
 </ol>
 <hr>
