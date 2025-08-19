@@ -1,51 +1,27 @@
-<p>Hi, I'm Atharva 👋</p>
-<p>A passionate Web3 developer with a focus on Decentralized Finance (DeFi).</p>
+<p>Hi, I'm Atharva</p>
+<p>A Web3 developer with a focus on Decentralized Finance (DeFi).</p>
 
 <hr>
-<p>🚀 Hackathon projects:</p>
+<p>Hackathon projects:</p>
 <p>
 </p>
-<p>Gasless Token Swapper: Improved user experience by making transactions feel seamless and gas-free.</p>
-<ul>
-    <li>
-      <strong><a href="https://github.com/theatharvamuley10/Gasless-Swapper">Code on GitHub</a></strong> | <strong><a href="https://your-demo-link.com">Live Demo</a></strong>
-    </li>
-</ul>
+<p><strong><a href="https://github.com/theatharvamuley10/Gasless-Swapper">Gasless Token Swapper:</a></strong> A gasless token swapper using ERC-4337 standard.</p>
 <hr>
-<p>🔧 DeFi Projects:</p>
-<p>Here are a few projects I've built that I'm proud of.</p>
+<p>DeFi Projects:</p>
 <ol>
   <li>
-    <strong><a href="https://github.com/theatharvamuley10/BetsAndStreaks">[BetsAndStreaks]</a></strong> - A brief, one-sentence description of what this project does and the problem it solves.
+    <strong><a href="https://github.com/theatharvamuley10/BetsAndStreaks">BetsAndStreaks</a></strong> - An onchian Rock, Paper, Scissors game that incentivises people with custom NFTs for win-streaks.
+  </li>
+    <li>
+    <strong><a href="https://github.com/your-username/sablier-reimplementation">Sablier</a></strong> - A token streaming protocol implementation for automated onchain payroll.
   </li>
   <li>
-    <strong><a href="https://github.com/theatharvamuley10/ERC4626-Vault">[ERC4626 Vault]</a></strong> - A brief, one-sentence description of what this project does and the problem it solves.
+    <strong><a href="https://github.com/theatharvamuley10/nft-marketplace">NFT-Marketplace</a></strong> - A simple nft marketplace to list / purchase nfts from.
   </li>
-  <li>
-    <strong><a href="https://github.com/theatharvamuley10/nft-marketplace">[NFT-Marketplace]</a></strong> - A brief, one-sentence description of what this project does and the problem it solves.
+    <li>
+    <strong><a href="https://github.com/theatharvamuley10/ERC4626-Vault">ERC4626 Vault</a></strong> - A ERC-20 token transfer vault.
   </li>
 </ol>
-<hr>
-<p>🔬 Protocol Re-implementations:</p>
-<p>To better understand the core mechanics of DeFi, I enjoy re-implementing famous protocols from scratch.</p>
-<ul>
-  <li>
-    <strong><a href="https://github.com/your-username/uniswap-reimplementation">Uniswap V2</a></strong> - A re-implementation focusing on the core logic of constant product automated market makers (AMMs).
-  </li>
-  <li>
-    <strong><a href="https://github.com/your-username/balancer-reimplementation">Balancer</a></strong> - An exploration of weighted pools and multi-token asset management.
-  </li>
-  <li>
-    <strong><a href="https://github.com/your-username/sablier-reimplementation">Sablier</a></strong> - A deep dive into token streaming protocols and time-based financial logic.
-  </li>
-</ul>
-<hr>
-<p>✍️ My Technical Writing:</p>
-<p>I also enjoy sharing my knowledge by writing deeply technical articles.</p>
-<ul>
-  <li><a href="https://your-blog-link.com/article-1"><strong>[Title of Your Blog Post 1]</strong></a></li>
-  <li><a href="https://your-blog-link.com/article-2"><strong>[Title of Your Blog Post 2]</strong></a></li>
-</ul>
 <hr>
 <p>Languages and Tools:</p>
 <p>
