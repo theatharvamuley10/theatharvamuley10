@@ -10,7 +10,7 @@
 <p>DeFi Projects:</p>
 <ol>
   <li>
-    <strong><a href="https://github.com/theatharvamuley10/BetsAndStreaks">BetsAndStreaks</a></strong> - An onchian Rock, Paper, Scissors game that incentivises people with custom NFTs for win-streaks.
+    <strong><a href="https://bets-and-streaks.vercel.app">BetsAndStreaks</a></strong> - An onchian Rock, Paper, Scissors game that incentivises people with custom NFTs for win-streaks.
   </li>
     <li>
     <strong><a href="https://github.com/your-username/sablier-reimplementation">Sablier</a></strong> - A token streaming protocol implementation for automated onchain payroll.
