@@ -1,6 +1,6 @@
 - 👋 Hi, you can call me Atharva
 - 👀 Web3 products built me or vice versa.
 - 🌱 I’m currently learning about EVM internals and Rust.
-- ⚙️ Currently building with PID Controllers × Lending Protocol.
+- ⚙️ Currently building Lending Protocol with PID controlled interest rate model.
 - 💞️ Looking to collaborate/work on Blockchain protocols and DeFi protocols.
 - 📫 You can reach me at [Twitter/X](https://x.com/atharvamuley) or by email at [theatharvamuley@gmail.com](mailto:theatharvamuley@gmail.com)
