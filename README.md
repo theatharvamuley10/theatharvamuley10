@@ -1,5 +1,5 @@
 - 👋 Hi, you can call me Atharva
-- ⛪️ Im from IIT Roorkee
+- ⛪️ Im from IIT Roorkee and currently working at Lirion (A Web3 Startup)
 - 👀 Web3 products built me or vice versa.
 - 🌱 I’m currently learning about EVM internals and Rust.
 - ⚙️ Currently building Lending Protocol with PID controlled interest rate model.
