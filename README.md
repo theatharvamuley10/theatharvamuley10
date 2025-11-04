@@ -1,7 +1,8 @@
 - 👋 Hi, you can call me Atharva
-- ⛪️ Im from IIT Roorkee and currently working at Lirion (A Web3 Startup)
+- ⛪️ Im from IIT Roorkee
+- 🏢 Im working as Full Stack blockchain Developer at Lirion
 - 👀 You can say Web3 products built me or vice versa.
-- 🌱 I’m currently learning about EVM internals and Rust.
-- ⚙️ Currently building Lending Protocol with PID controlled interest rate model.
+- 🌱 I’m currently learning about RWA tokenisation and studying EVM internals and Rust.
+- ⚙️ Also building Lending Protocol with PID controlled interest rate model as a side project.
 - 💞️ Looking to collaborate/work on Blockchain protocols and DeFi protocols.
 - 📫 You can reach me at [Twitter/X](https://x.com/atharvamuley) or by email at [theatharvamuley@gmail.com](mailto:theatharvamuley@gmail.com)
