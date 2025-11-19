@@ -1,6 +1,5 @@
 - 👋 Hi, you can call me Atharva
 - ⛪️ Im from IIT Roorkee
-- 🏢 Im working as Full Stack blockchain Developer at Lirion
 - 👀 You can say Web3 products built me or vice versa.
 - 🌱 I’m currently learning about RWA tokenisation and studying EVM internals and Rust.
 - ⚙️ Also building Lending Protocol with PID controlled interest rate model as a side project.
